@@ -1,0 +1,3 @@
+include ':image_picker_android'
+include ':app'
+rootProject.name = "ImagePicker"
